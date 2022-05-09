@@ -1,7 +1,15 @@
 <resources>
-  <string name="app_name">BAJP Submission 2</string>
+  <string name="app_name">BAJP Submission 3</string>
 
-  <string name="tab_text_1">Movies</string>
-  <string name="tab_text_2">TV Shows</string>
+  <string name="movies">Movies</string>
+  <string name="tv_shows">TV Shows</string>
   <string name="title_activity_detail">DetailActivity</string>
+  <string name="favorites">Favorites</string>
+
+  <!--Empty States-->
+  <string name="empty_state_title_no_conn">No internet connection</string>
+  <string name="empty_state_title_no_favorite_item">No favorites yet.</string>
+  <string name="empty_state_desc_no_favorite_item_movie">You don\'t have a list of favorite movies</string>
+  <string name="empty_state_desc_no_favorite_item_tvshow">You don\'t have a list of favorite tv show</string>
+
 </resources>

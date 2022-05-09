@@ -6,7 +6,7 @@
   android:layout_width="match_parent"
   android:layout_height="match_parent"
   android:layout_marginBottom="@dimen/activity_vertical_margin"
-  tools:context=".ui.activity.DetailActivity">
+  tools:context=".features.detail.ui.activity.DetailActivity">
 
   <ScrollView
     android:layout_width="match_parent"
